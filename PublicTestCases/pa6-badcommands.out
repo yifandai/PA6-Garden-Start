@@ -44,7 +44,9 @@ Can't cut there.
 ...............
 ...............
 
-Can't grow here.
+> GROW (3,3)
+
+Can't grow there.
 
 > PRINT
 ...............
