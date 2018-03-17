@@ -4,4 +4,4 @@ script: python grade.py PA6Main PublicTestCases --outpre pa6 --inext in
 
 notifications:
   on_success: always
-  email: your.github.email@whatever.domain
+  email: yifandai@email.arizona.edu
